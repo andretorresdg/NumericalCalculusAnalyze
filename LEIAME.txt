@@ -1,0 +1,51 @@
+﻿ep2-numerico-versao4.py
+
+
+Este exercício programa apresenta como função auxiliar o aprofundamento do entendimento dos estudante sobre métodos numéricos para possibilitar sua aplicação em problemas reais. Desta forma, este programa traz métodos que possibilitaram a resolução de problemas com o equacionamento da temperatura em uma barra. Neste âmbito, buscamos utilizar valores pré-definidos de variáveis para desenvolver resultados satisfatórios graficamente e numericamente ao usuário.
+
+
+Para executar o projeto, será necessário:
+
+
+Como baseamos nosso programa em um arquivo presente na página https://edisciplinas.usp.br/course/view.php?id=74332, o usuário deverá usar o arquivo desenvolvido especificamente para este exercício programa. Assim, o documento de texto presente deve ser baixado e seu caminho, consecutivamente, copiado e colado quando pedido pelo programa.
+
+
+Possuir um executor do programa que seja igual ou superior ao Python 3.8.2. (recomendo a utilização do Virtual Studio Code como um Python IDE).
+Possuir uma biblioteca matplotlib e outra numpy
+
+
+Para utilizar os programas corretamente, além do usuário ter de baixar o executor do programa através do site oficial, também deverá importar as bibliotecas matplotlib.pyplot, numpy, random e math. Isso é feito através do prompt do python, com os comandos de “pip install” seguido pelo nome da biblioteca.
+
+
+
+
+MIT License
+
+
+Copyright (c) [2020] [ep2-numerico-versao3.py]
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+
+Este projeto é de autoria dos alunos André Devay Torres Gomes e Filipe Coutinho Rodrigues da Escola Politécnica da Universidade de São Paulo. Ele foi produzido e finalizado no dia 09/07/2020.
